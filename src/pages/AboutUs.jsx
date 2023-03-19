@@ -23,9 +23,8 @@ function AboutUs() {
           <h2>Our Team</h2>
           <div className="team_images">
             <ImageCard name="Sameer Madhav D" image="/profile_images/sameer.jfif"/>
-            <ImageCard name="Ankit Gupta" image="/profile_images/Ankit_Gupta.png"/>
             <ImageCard name="Aneerban Saha" image="/profile_images/aneerban.jfif"/>
-            <ImageCard name="Sarthak Garg" image="/profile_images/sarthak.jfif"/>
+            <ImageCard name="Vaidik Mandloi" image="/profile_images/Vaidik.jpg"/>
           </div>
         </div>
       </div>
