@@ -12,14 +12,14 @@ function Appointments() {
         <div className="upcoming_appointments_list">
           <UpcomingAppointment
             name="Dr. Ayush Rai"
-            spec="Psychiatrist"
+            spec="Pediatrics"
             dist="3.9"
             date="22"
             time="09:00"
           />
           <UpcomingAppointment
             name="Dr. Vineet Goyal"
-            spec="Psychiatrist"
+            spec="Neurology"
             dist="11.5"
             date="23"
             time="09:15"
@@ -29,13 +29,13 @@ function Appointments() {
         <div className="recent_appointments_list">
           <RecentAppointment
             name="Dr. Ganpat Singh"
-            spec="Psychiatrist"
+            spec="Anesthesiology"
             dist="6.2"
             rate="⭐⭐⭐⭐⭐"
           />
           <RecentAppointment
             name="Dr. Prakash Sharama"
-            spec="Psychiatrist"
+            spec="Cardiology"
             dist="7.7"
             rate="⭐⭐⭐⭐"
           />
