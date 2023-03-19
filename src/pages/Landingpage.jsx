@@ -14,7 +14,7 @@ function Landingpage() {
             <h1 className="head">Welcome To Med-X .</h1>
             <h1 className="head">This Is A Slogan</h1>
             <p className="slogan_para">
-              ``Elevating mental healthcare with the power of blockchain``
+              ``Welcome to med-X Hospital, a decentralized healthcare facility dedicated to providing high-quality, patient-centered care to our community.``
             </p>
             <Link to="/doctors"><button>Book An Appointment Now</button></Link>
           </div>
