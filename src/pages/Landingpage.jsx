@@ -11,7 +11,7 @@ function Landingpage() {
         </div>
         <div className="rightcontent">
           <div className="slogan">
-            <h1 className="head">Welcome To Med-X .</h1>
+            <h1 className="head">Welcome To Med-x .</h1>
             <h1 className="head">This Is A Slogan</h1>
             <p className="slogan_para">
               ``Welcome to med-X Hospital, a decentralized healthcare facility dedicated to providing high-quality, patient-centered care to our community.``
